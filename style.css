@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #0D47A1 !important;
+}
+.navbar .navbar-brand{
+    color: #eee;
+}
+.navbar .nav-item .nav-link{
+    color: #eee;
+    font-size: 20px;
+    margin-right: 15px;
+}
+.header{
+    margin-top: 80px !important;
+}
+.pbox{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.pbox img{
+    width: 50%;
+}
+.ptext{
+    margin-top: 20px;
+}
+.pbox .ptext a{
+    font-size: 22px;
+}
+footer{
+    background-color: #00ACC1;
+}
